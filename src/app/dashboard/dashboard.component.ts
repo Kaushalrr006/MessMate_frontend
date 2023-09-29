@@ -6,5 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./dashboard.component.css']
 })
 export class DashboardComponent {
+  selectedRating: number = 0;
 
+  highlightStar(rating: number) {
+    this.selectedRating = rating;
+  }
+
+  rate(rating: number) {
+    // logic likhna hai .
+   
+    console.log(`Rated with ${rating} stars`);
+  }
 }
