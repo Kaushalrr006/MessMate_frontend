@@ -1,27 +1,61 @@
-# MmF
+# Mess Mate 🍔🥘🍱
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+Welcome to Mess Mate! 🎉
 
-## Development server
+Mess Mate is a MESS (Meal and Food Services) application developed using the MEAN stack (MongoDB, Express.js, Angular, and Node.js). Our mission is to simplify the dining experience for college students in India by providing a convenient platform for accessing mess and tiffin services. Say goodbye to the hassles of finding quality food providers and managing payments; Mess Mate has got you covered! 🙌
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Problem Statement 🇮🇳
 
-## Code scaffolding
+In India, college students often face numerous challenges when it comes to their daily meals. Many students live away from home and struggle to find affordable, hygienic, and convenient food options. Traditional mess services are often hard to discover, and managing payments and orders can be a headache. Mess Mate aims to address these issues and make the lives of college students easier and tastier! 📚🍛
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Functionalities 🛠️
 
-## Build
+### For Users 🧑‍🎓
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. 👤 **User Login/Profile**: Create and manage your profile to personalize your Mess Mate experience.
 
-## Running unit tests
+2. 🔍 **Search Mess/Tiffin Provider**: Easily discover nearby mess and tiffin providers based on your location and preferences.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+3. 📜 **View Mess/Tiffin Menu**: Browse through menus to see the mouthwatering dishes available.
 
-## Running end-to-end tests
+4. 🛒 **Place Order and Make Payment**: Order your favorite meals hassle-free and securely process payments within the app.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+5. ✍️ **Write Review**: Share your dining experiences and help others make informed choices.
 
-## Further help
+### For Vendors 🍽️
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. 👩‍🍳 **Vendor Login/Profile**: Vendors can create and manage their profiles to showcase their services.
+
+2. 🍔 **Add/Edit/Delete Menu Items**: Easily update your menu to reflect the latest offerings.
+
+3. 🚚 **Accept Order and Send for Delivery**: Manage incoming orders and streamline your delivery process.
+
+4. 💰 **Withdraw Payment**: Access your earnings and withdraw payments conveniently.
+
+## Technologies Used 🚀
+
+Mess Mate is powered by the MEAN stack:
+
+- **MongoDB**: For storing and managing data.
+- **Express.js**: For building robust and scalable backend services.
+- **Angular**: For crafting a dynamic and user-friendly frontend.
+- **Node.js**: For running server-side code and APIs.
+
+## Getting Started 🚀
+
+To get started with Mess Mate, follow these steps:
+
+1. Clone the repository.
+2. Install the necessary dependencies.
+3. Configure your MongoDB database.
+4. Start the server and launch the app.
+
+## Deployed link
+Demo: https://mess-mate-frontend.vercel.app/
+
+## Feedback 💌
+
+We value your feedback and suggestions. Feel free to open issues or reach out to us at [Mail](mailto:kaushal.ratnapagol20@vit.edu) with your thoughts and ideas!
+
+
+Join us on our mission to simplify dining for college students in India with Mess Mate. Happy dining! 🍽️🎓🇮🇳
