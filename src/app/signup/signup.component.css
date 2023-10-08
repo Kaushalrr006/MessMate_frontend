@@ -1,0 +1,30 @@
+.form-LCh {
+    font-family: 'Manrope', 'Source Sans Pro', sans-serif; /* Specify the desired font family */
+    font-size: 33px; /* Set the font size */
+    font-weight: 400; /* Set the font weight (e.g., 400 for normal) */
+    color: #2e343f; /* Set the text color */
+  }
+.container-ij3{
+    flex-wrap: wrap-reverse;
+}
+.content-area-left-DJR{
+    flex: 0 0 40%;
+    margin-top: 5rem;
+    padding: 1rem;
+    margin-right: 50%;
+    margin-left: 10%;
+    order: 1;
+}
+.form-i2D {
+    position: absolute;
+    top: 50px; /* Adjust this value to leave enough space for your navbar */
+    right: 0;
+    padding: 1rem;
+    margin-top: 5rem;
+    margin-right: 10%;
+    margin-left: 50%;
+    /* Add any other styling you want for this container */
+  }
+  
+   
+  
