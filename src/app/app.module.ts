@@ -6,7 +6,11 @@ import { AppComponent } from './app.component';
 import { CardsComponent } from './cards/cards.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { NavbarComponent } from './navbar/navbar.component';
+<<<<<<< HEAD
 import { SignupComponent } from './signup/signup.component';
+=======
+import { SignInComponent } from './sign-in/sign-in.component';
+>>>>>>> 1089240274dec0c8c3f510f76ae195fc5b6066ed
 
 @NgModule({
   declarations: [
@@ -14,7 +18,11 @@ import { SignupComponent } from './signup/signup.component';
     CardsComponent,
     DashboardComponent,
     NavbarComponent,
+<<<<<<< HEAD
     SignupComponent
+=======
+    SignInComponent
+>>>>>>> 1089240274dec0c8c3f510f76ae195fc5b6066ed
   ],
   imports: [
     BrowserModule,
